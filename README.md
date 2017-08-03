@@ -1,1 +1,4 @@
-The second class repo readme!
+## The second class repo readme!
+-----------------
+
+- Added some better markdown!
